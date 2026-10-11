@@ -1,0 +1,11 @@
+WARNING - PLEASE READ BEFORE USING
+==================================
+
+The files in this package (camgrab.bat and camgrab.sh) were generated
+entirely by AI.
+
+They have been tested and confirmed to work, but they have NOT been
+reviewed or evaluated for safety or security.
+
+Use them at your own risk. By running these files, you accept full
+responsibility for any outcome.
